@@ -1,1 +1,1 @@
-# 2-stage-opamp
+# 2-stage-OTA
